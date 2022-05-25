@@ -21,7 +21,7 @@ MarkupSafe==1.0
 mccabe==0.6.1
 pep8==1.7.1
 psycopg2==2.7.5
-PyJWT==1.6.4
+PyJWT==2.4.0
 pylint==2.1.1
 pytz==2018.7
 requests==2.20.0
